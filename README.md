@@ -1,5 +1,5 @@
 # Supply-Chain-Analytics
-Supply Chain Analytics for Atliq Mart an FMCG manufacturer.
+Supply Chain Analytics for Atliq Mart an FMCG manufacturer using python libraries such as pandas, matplotlib and seaborn.
 ## Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
 
