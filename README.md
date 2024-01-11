@@ -102,21 +102,8 @@ This table contains information about OnTime, InFull and OnTime Infull informati
    ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/2db86377-bbef-45c8-a3c2-f4ddecb7f048)
 
 7. Metrics Performance Over time
-   * OT % and Target OT % overtime
 
    ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/7b8de339-1d7f-473a-b542-5155ef8a12e5)
-   * IF % and Target IF % overtime
-
-     ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/6f9225ba-34bc-475b-9a01-8f6a3a2343d1)
-   * OTIF % and Target OTIF % overtime
-
-     ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/ec589c1d-1256-47a4-bcc8-40be6a20dab3)
-   * LIFR % overtime
-
-     ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/e3239d45-a5c2-4bf1-8c1c-6f6b21d4566d)
-   * VOFR % overtime
-
-     ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/08bc09a9-6e12-4141-aeb0-4257ea5bda1f)
 8. LIFR % and VOFR % by products
 
    ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/c7c91218-a861-49b3-a97c-6830ff82ee69)
