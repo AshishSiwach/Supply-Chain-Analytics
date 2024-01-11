@@ -83,7 +83,57 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 
 ## Key Insights and Finding
 1. OT % vs Target OT %
+   
    ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/fc072cc6-056d-457b-bdd4-34993368b626)
+2. IF % vs Target IF %
+
+   ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/32df22c4-be53-4427-a671-dc13411c7361)
+3. OTIF % vs Target OTIF %
+
+   ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/1a4eed1f-614d-4650-92b2-560bb2db7db7)
+4. Line Fill Rate %(LIFR %) and Volume Fill Rate %(VOFR %)
+
+   ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/bec1ffb4-6151-4d91-a30b-3b691148baaa)
+5. OT %, IF % and OTIF % with their targets split by cities
+
+   ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/a6c6157f-dbef-4739-b906-371192c753a5)
+6. OT %, IF % and OTIF % split by customers
+
+   ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/2db86377-bbef-45c8-a3c2-f4ddecb7f048)
+
+7. Metrics Performance Over time
+   * OT % and Target OT % overtime
+
+   ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/7b8de339-1d7f-473a-b542-5155ef8a12e5)
+   * IF % and Target IF % overtime
+
+     ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/6f9225ba-34bc-475b-9a01-8f6a3a2343d1)
+   * OTIF % and Target OTIF % overtime
+
+     ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/ec589c1d-1256-47a4-bcc8-40be6a20dab3)
+   * LIFR % overtime
+
+     ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/e3239d45-a5c2-4bf1-8c1c-6f6b21d4566d)
+   * VOFR % overtime
+
+     ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/08bc09a9-6e12-4141-aeb0-4257ea5bda1f)
+8. LIFR % and VOFR % by products
+
+   ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/c7c91218-a861-49b3-a97c-6830ff82ee69)
+9. Approximately 29% orders were delivered late.
+10. On an average orders have been 1.69 days late from the agreed delivery date.
+11. On an average it takes 2.42 days to ship the product from the day order was placed.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
