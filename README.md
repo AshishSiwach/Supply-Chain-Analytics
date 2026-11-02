@@ -107,7 +107,7 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 8. LIFR % and VOFR % by products
 
    ![image](https://github.com/AshishSiwach/Supply-Chain-Analytics/assets/84501246/c7c91218-a861-49b3-a97c-6830ff82ee69)
-9. Approximately 29% orders were delivered late.
+9. Approximately 41% orders were delivered late.
 10. On an average orders have been 1.69 days late from the agreed delivery date.
 11. On an average it takes 2.42 days to ship the product from the day order was placed.
 
